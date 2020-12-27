@@ -1,0 +1,451 @@
+/* LARGE DEVICE RESPONSIVE START*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+.offer-txt span {
+	 padding-left: 0px; 
+}
+.left {
+	left: -3%;
+}
+.right {
+	right: -3%;
+}
+.off-arrow {
+	z-index: 111;
+}
+.offer-txt h6 {
+	 padding-left: 0px; 
+}
+.today-write p {
+	display: none;
+}
+.today-write h5 {
+    border-right: none;
+    padding-right: 0;
+}
+.blog-txt{
+    padding-top: 20px
+}
+.blog-txt p{
+    display: none;
+}
+.blog-img{
+    padding-bottom: 5px
+}
+.foot-link .dis{
+    display: none
+}
+.pro-txt span{
+    display: none
+}
+.buy-img {
+	margin-top: 60px;
+}
+}
+/* LARGE DEVICE RESPONSIVE END*/
+
+
+
+/* MEDIUM DEVICE RESPONSIVE START*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+.top-right i {
+	margin-left: 2px;
+}
+.navbar{
+    line-height: 0;
+}
+.navbar i{
+    font-size: 24px;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    margin-right: 0px; 
+	padding-top: 20px;
+	padding-bottom: 20px;
+    padding-left: 0px; 
+    padding-right: 0px;
+    margin-bottom: 10px;
+    text-align: center
+}
+.form-inline .form-control {
+	display: block;
+	width: 80%;
+}
+.form-inline{
+    margin-bottom: 20px!important
+}
+.dropdown-item {
+	text-align: center;
+}
+button:focus {
+	outline: none;
+	outline: none;
+}
+.banner-left2{
+    margin-top: 10px
+}
+.del-itm3{
+    padding-top: 40px
+}
+.del-txt3{
+    margin-left: 15px
+}
+.pro-txt h4 {
+	font-size: 15px;
+}
+.pro-padd{
+    margin-top: 30px
+}
+.left {
+	left: -5%;
+}
+.right {
+	right: -5%;
+}
+.off-arrow i {
+	z-index: 111;
+}
+.buttons button {
+	padding: 8px 23px;
+}
+.buttons {
+    padding-bottom: 20px; 
+}
+.today-write h5 {
+	padding-right: 17px;
+}
+.blog-top h3 {
+    margin-top: 40px
+}
+.foot-left2, .foot-left3 {
+    padding-left: 0px; 
+}
+.news .form-control {
+    margin-left: 0px; 
+	width: 100%;
+}
+.news button {
+	right: 2%;
+}
+.foot-left3 h3{
+   padding-top: 20px;
+}
+.pay-top{
+    padding-top: 40px
+}
+/*
+.buy-left2 {
+	text-align: left
+}
+*/
+.sup{
+    text-align: left;
+    margin-left: 170px
+}
+}
+/* MEDIUM DEVICE RESPONSIVE END*/
+
+
+
+/* SMALL DEVICE RESPONSIVE START*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+.logo-left i {
+	margin-right: 10px;
+}
+.news button {
+	right: 2%;
+}
+.navbar{
+    line-height: 0
+}
+.top-right i {
+	font-size: 16px;
+	color: #ffffff;
+    border: 0; 
+    padding: 0; 
+	margin-left: 5px;
+}
+.top-right i {
+	font-size: 15px;
+	color: #ffffff;
+	border: 0;
+	padding: 0;
+	margin-left: 2px;
+}
+.top-left h4 {
+	font-size: 15px;
+    padding-top: 3px
+}
+.top-right h4 {
+	font-size: 15px;
+}
+.navbar i{
+    font-size: 24px;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+button:focus {
+	outline: none;
+	outline: none;
+}
+.navbar-nav{
+    text-align: center
+}
+.form-inline .form-control {
+	display: block;
+	width: 80%;
+}
+.form-inline{
+    margin-bottom: 20px!important
+}
+.dropdown-item {
+	text-align: center;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    margin-right: 0px; 
+	padding-top: 20px;
+	padding-bottom: 20px;
+    padding-left: 0px; 
+    padding-right: 0px;
+    margin-bottom: 10px
+}
+.over-txt p {
+    padding-top: 10px; 
+	padding: 0 30px;
+    display: none
+}
+.over-txt h6 {
+	padding: 6px 9px;
+    margin-top: 20px; 
+}
+.over-txt h4 {
+	font-size: 28px;
+}
+.banner-left2 {
+	position: relative;
+	margin-top: 15px;
+}
+.over-txt2 h4 {
+	line-height: 40px;
+    font-size: 28px
+}
+.over-txt2 h6 {
+	margin-top: 30px;
+}
+.del-itm3{
+    padding-top: 30px
+}
+.pro-padd{
+    margin-top: 30px
+}
+.off-arrow i {
+	width: 40px;
+	height: 40px;
+	line-height: 40px;
+	z-index: 111;
+}
+.left {
+	left: -4%;
+}
+.right {
+	right: -4%;
+}
+.buttons button {
+	padding: 8px 17px;
+	border: 1px solid #ffffff;
+	margin: 0 3px;
+    margin-bottom: 30px
+}
+.buttons button.another{
+    text-align: center;
+    margin-left: 180px
+}
+.buttons {
+    padding-bottom: 0px; 
+	margin-top: 50px;
+}
+.today-write h5 {
+	font-family: 'Lora', serif;
+	font-size: 16px;
+	text-transform: capitalize;
+	color: #444444;
+	margin-top: 20px;
+	border-right: 3px solid #999;
+	display: inline-block;
+    padding-right: 25px; 
+	transition: all linear .3s;
+}
+.today-write p {
+	margin-top: 17px;
+}
+.today {
+	margin-bottom: 60px;
+}
+#blog {
+	padding-top: 80px;
+	padding-bottom: 110px;
+}
+.foot-left2, .foot-left3 {
+    padding-left: 0px; 
+	padding-top: 40px;
+}
+.news .form-control {
+    margin-left: 0px; 
+	width: 100%;
+}
+.pay-top{
+    padding-top: 40px
+}
+}
+/* SMALL DEVICE RESPONSIVE END*/
+
+
+
+/*EXTRA SMALL DEVICE RESPONSIVE START*/
+@media (max-width: 575.98px) {
+.top-left h4 {
+	font-size: 15px;
+}
+.logo-left{
+    padding-left: 30px
+}
+.dropdown-item {
+	text-align: center;
+}
+button:focus {
+	outline: none;
+	outline: none;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    margin-right: 0px;
+    margin-bottom: 10px
+}
+.navbar{
+    line-height: 0;
+}
+.navbar form{
+    padding-bottom: 10px;
+}
+.top-right h4 {
+	font-size: 15px;
+}    
+.top-right i {
+	font-size: 15px;
+}    
+.logo-mid{
+    padding-top: 15px;
+}
+.logo-right{
+    padding-top: 20px;
+}
+.over-txt p {
+	display: none;
+}
+.navbar i{
+    font-size: 24px;
+    color: #ffffff;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px
+}
+.navbar-nav{
+    text-align: center
+}
+.form-control{
+	width: 60%;
+	margin-left: 50px;
+}
+.over-txt h4 {
+	font-size: 18px;
+}
+.over-txt h6 {
+	font-size: 18px;
+	padding: 4px 10px;
+}
+.over-txt2 h4 {
+	font-size: 18px;
+    padding: 0; 
+}
+.banner-left3 {
+	position: relative;
+	 margin-top: 0px; 
+}
+.del-itm{
+    padding-top: 40px
+}
+#del {
+    padding-top: 10px;
+    padding-bottom: 40px;
+}
+.top-btn{
+    margin-top: 20px
+}
+.pro-hov{
+    margin-top: 40px
+}
+.pro-gap {
+   padding-top: 0px; 
+}
+.off-arrow {
+	z-index: 111;
+}
+.off-arrow i {
+	width: 40px;
+	height: 40px;
+	line-height: 40px;
+}
+.left {
+	left: -6%;
+}
+.right {
+	right: -6%;
+}
+.buttons button {
+	padding: 7px 8px;
+	margin-bottom: 25px;
+}
+.buttons {
+	padding-bottom: 0px;
+}
+.today-write p {
+    margin-top: 0px; 
+}
+.blog-top h3 {
+	padding-top: 50px;
+}
+.blog-txt h4 {
+	font-size: 22px;
+	padding-top: 20px;
+}
+.blog-txt p {
+	 padding-top: 0px; 
+}
+.foot-left2, .foot-left3 {
+	 padding-left: 0px; 
+}
+.foot-left h3, .foot-left2 h3, .foot-left3 h3 {
+	padding-top: 50px;
+}
+.news .form-control {
+	padding: 8px 10px;
+	background-color: #fff;
+	border-radius: 0;
+	border: 0;
+	outline: 0;
+    margin-left: 0px; 
+    margin-top: 0px; 
+	text-align: left;
+	width: 100%;
+}
+.off-arrow{
+    display: none;
+}
+.pay-top{
+    padding-top: 40px
+}
+}
+/*EXTRA SMALL DEVICE RESPONSIVE END*/
